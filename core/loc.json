@@ -1,0 +1,20 @@
+{
+    "loc": 
+    {
+        "en":
+        {
+            "title": "Affinity Propagation",
+            "lang": "Language",
+            "points": "Points",
+            "run_algorithm": "Run algorithm"
+        },
+        "fr":
+        {
+            "title": "Propagation d'affinité",
+            "lang": "Langage",
+            "points": "Points",
+            "run_algorithm": "Exécuter l'algorihtme"
+
+        }
+    }
+}
